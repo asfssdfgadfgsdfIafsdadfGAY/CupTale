@@ -13,7 +13,7 @@ header {
     min-width: 1263px;
 }
 
-header img {
+.HI {
     width: 250px;
     height: 245px;
 }
@@ -160,7 +160,7 @@ h2 {
     text-align: center;
 }
 
-footer img {
+.qw {
     width: 150px;
     height: 150px;
 }
