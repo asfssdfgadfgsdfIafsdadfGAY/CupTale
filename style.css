@@ -1,0 +1,190 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #FFFF73;
+}
+
+header {
+    background-color: #FFDE40;
+    display: flex;
+    width: 100%;
+    height: 250px;
+    min-width: 1263px;
+}
+
+header img {
+    width: 250px;
+    height: 245px;
+}
+
+header p {
+    font-size: 80px;
+    display: flex;
+    text-align: justify;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.buuu {
+    text-align: center;
+}
+
+main p {
+    text-align: left;
+    background-color: #FFFF40 ;
+    padding: 10px;
+    width: fit-content;
+    display: inline-block;
+}
+
+span {
+    background: #FFFF40;
+}
+
+main img {
+width: 250px;
+height: 250px;
+display: inline-block;
+padding: 25px;
+}
+
+div {
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.dl {
+    background-color: #F7FF00;
+    color: #A68B00	;
+    padding: 25px;
+    margin-right: 100%;
+    width: 100%;
+    text-align: center;
+
+}
+
+.bb {
+    margin-left: 5%;
+    background-color: #BFBF30;
+    width: 25%
+}
+
+.bbb {
+background-color: #BFBF30;
+
+}
+
+nav a {
+    margin: 20px;    
+    font-size: 40px;
+    text-decoration: none;
+    color: white;
+    border: 3px solid #FFDE40;
+    background-color: #FFDE40;
+
+}
+
+section {
+    justify-content: space-between;
+    padding: 86px auto 76px auto;
+}
+
+details {
+    background-color: #FFFF40;
+    width: 37%;
+    margin: 15px auto auto auto;
+    padding: 10px 10px 10px 10px;
+}
+
+footer {
+    background-color: #FFAD40;
+}
+
+.f {
+    background-color: #FFCF40
+}
+
+.q {
+    background-color: #FFDC73;
+    text-align: center;
+}
+
+.w {
+   background-color: #FFBF00;
+   text-align: left;
+}
+
+.e {
+    background-color: #A69700;
+}
+
+footer p {
+    background-color: #FFC373;
+}
+
+footer div {
+    float: left
+}
+
+section {
+    background-color: #FFDE40;
+}
+
+nav {
+    height: 100px;
+    padding: 100px 0;
+}
+
+nav a {
+   width: 100%;
+   background-color: #FFDC73;
+   border-radius: 100px;
+   color: black;
+   padding: 25px;
+}
+
+.ttt {
+    float: left
+}
+
+h2 {
+    background-color: #F7FF00;
+    padding: 25px 25px 25px 25px;
+    margin: 0px;
+    text-align: center;
+}
+
+.qwer {
+    text-align: center;
+}
+
+footer img {
+    width: 150px;
+    height: 150px;
+}
+
+footer {
+    height: 200px
+}
+
+footer p {
+    padding: 20px 0;
+}
+
+.f {
+    text-align: center;
+}
+
+.e {
+    text-align: center;
+}
+
+.w {
+    text-align: center;
+}
+
+
+
+
